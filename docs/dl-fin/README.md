@@ -1,6 +1,6 @@
 # 金融中的深度学习
 
-> 原文：[`annas-archive.org/md5/1d10c05a97f5e0702eda83b77eec256b`](https://annas-archive.org/md5/1d10c05a97f5e0702eda83b77eec256b)
+> 原文：[Deep Learning for Finance: Creating Machine and Deep Learning Models for Trading in Python](https://annas-archive.gl/md5/1d10c05a97f5e0702eda83b77eec256b)
 >
 > 译者：[飞龙](https://github.com/wizardforcel)
 >
